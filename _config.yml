@@ -17,16 +17,16 @@ avatar: https://avatars2.githubusercontent.com/u/143689?s=460&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: http://dribbble.com/sulcalibur
+  dribbble: sulcalibur
   email:
-  facebook: http://facebook.com/sulcalibur
+  facebook: sulcalibur
   flickr:
-  github: barryclark/jekyll-now
-  instagram: http://instagram.com/sulcalibur77
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  github: sulcalibur
+  instagram: sulcalibur77
+  linkedin: suleiman.leadbitter
+  pinterest: sulcalibur
+  rss: rss
+  twitter: sulcalibur
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +37,7 @@ footer-links:
 disqus: sulcalibur
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
